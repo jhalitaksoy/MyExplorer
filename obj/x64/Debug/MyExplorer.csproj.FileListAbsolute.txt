@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\MyExplorer\MyExplorer\bin\x64\Debug\MyExplorer.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\MyExplorer\MyExplorer\bin\x64\Debug\MyExplorer.exe
+c:\users\asus\documents\visual studio 2015\Projects\MyExplorer\MyExplorer\bin\x64\Debug\MyExplorer.pdb
+c:\users\asus\documents\visual studio 2015\Projects\MyExplorer\MyExplorer\obj\x64\Debug\MyExplorer.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\MyExplorer\MyExplorer\obj\x64\Debug\MyExplorer.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\MyExplorer\MyExplorer\obj\x64\Debug\MyExplorer.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\MyExplorer\MyExplorer\obj\x64\Debug\MyExplorer.exe
+c:\users\asus\documents\visual studio 2015\Projects\MyExplorer\MyExplorer\obj\x64\Debug\MyExplorer.pdb
+C:\Users\asus\Documents\Visual Studio 2015\Projects\MyExplorer\MyExplorer\obj\x64\Debug\MyExplorer.csprojResolveAssemblyReference.cache
