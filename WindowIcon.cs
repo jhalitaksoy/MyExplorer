@@ -43,11 +43,11 @@ namespace MyExplorer
         private void pictureBox_MouseEnter(object sender, System.EventArgs e)
         {
             PictureBox pictureBox = sender as PictureBox;
-
-            ItemAnimator itemAnimator = new ItemAnimator();
-            itemAnimator.animatePosition(pictureBox, new Point(pictureBox.Location.X, pictureBox.Location.Y - margin / 2), 500);
+            
+            
             //Console.WriteLine(WindowManager.getWindow(id).WindowProcess.MainWindowTitle);
-            //pictureBox.Location = new Point(pictureBox.Location.X, pictureBox.Location.Y - margin / 2);
+
+            pictureBox.Location = new Point(pictureBox.Location.X, pictureBox.Location.Y - margin / 2);
             pictureBox.Height += pictureBox.Location.Y + margin / 2;
         }
 
